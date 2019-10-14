@@ -1,3 +1,3 @@
 # BeerFabric
 
-Image with task is in the project
+Тестовое задание от компании https://www.beer52.com/
